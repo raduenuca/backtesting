@@ -1,2 +1,2 @@
-# backtesting
-Backtesting Project: Udacity - AI for Trading Nanodegree Program
+# Backtesting
+*Udacity - AI for Trading Nanodegree Program*
